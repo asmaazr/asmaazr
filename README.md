@@ -56,8 +56,9 @@
 </p>
 
 <br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asmaazr&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asmaazr&theme=tokyonight)](https://git.io/streak-stats)
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
