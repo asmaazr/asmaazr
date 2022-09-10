@@ -6,10 +6,6 @@
 
 ##  About Me
 
-- 🌱 I’m currently learning **Kubernetes**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 Reach me **asmaaziry19@gmail.com**
 
 - ⚡ Fun fact **I love cats :octocat: not this one , this one :cat:**
