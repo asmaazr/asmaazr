@@ -3,7 +3,7 @@
 <br/>
 
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
   <br/>
     <a href="https://github.com/asmaazr/github-readme-stats"><img alt="Asmaa Ziry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asmaazr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -33,8 +33,4 @@
 
 <br/>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=asmaazr">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/asmaazr?label=Followers&style=social" alt="GitHub Badge"></a>
+
