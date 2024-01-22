@@ -6,8 +6,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/asmaa-ziry-4a5b0518b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ziry_asmaa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mercury_creatures/?hl=fr"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
